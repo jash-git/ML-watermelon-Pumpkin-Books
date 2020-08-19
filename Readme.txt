@@ -13,6 +13,11 @@
 資料來源: https://github.com/datawhalechina/pumpkin-book
 
 
+手工推導公式
+資料來源: https://github.com/Sophia-11/Machine-Learning-Notes
+https://github.com/Vay-keen/Machine-learning-learning-notes
+
+
 目錄
 第1章緒論
 第2章模型評估與選擇
